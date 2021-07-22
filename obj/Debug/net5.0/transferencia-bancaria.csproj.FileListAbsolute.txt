@@ -1,0 +1,16 @@
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.exe
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.deps.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.runtimeconfig.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.runtimeconfig.dev.json
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\ref\transferencia-bancaria.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\bin\Debug\net5.0\transferencia-bancaria.pdb
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.AssemblyInfoInputs.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.AssemblyInfo.cs
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\ref\transferencia-bancaria.dll
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.pdb
+C:\Users\lavin\Desktop\Cursos e Programas\Em andamento\.NET\08 - Criando uma aplicação de transferências bancárias com .NET\transferencia-bancaria\obj\Debug\net5.0\transferencia-bancaria.genruntimeconfig.cache
